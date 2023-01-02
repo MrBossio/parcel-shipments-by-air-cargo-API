@@ -1,0 +1,36 @@
+logging:
+  file:
+    name: application.log
+spring:
+  profiles:
+    active: '@spring.profiles.active@'
+  datasource:
+    tomcat:
+      max-wait: 20000
+      max-active: 50
+      max-idle: 20
+      min-idle: 15
+      driver-class-name: com.mysql.cj.jdbc.Drive
+      connection-properties: useUnicode=true
+      characterEncoding: utf-8
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create
+    properties:
+      hibernate:
+        jdbc:
+          batch_size: 100
+        order_inserts: true
+        dialect: org.hibernate.dialect.MySQL8Dialect
+  mvc:
+    pathmatch:
+      matching-strategy : ant_path_matcher
+
+server:
+  port: 8080
+  error:
+    include-message: never
+    include-stacktrace: never
+
+

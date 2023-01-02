@@ -1,0 +1,40 @@
+1;America del Sur;SKBO;Bogota;Colombia;bogo;4.70159;-74.1469;-5;America/Bogota
+2;America del Sur;SEQM;Quito;Ecuador;quit;-0.12916667;-78.3575;-5;America/Guayaquil
+3;America del Sur;SVMI;Caracas;Venezuela;cara;10.601194;-66.991222;-4;America/Caracas
+4;America del Sur;SBBR;Brasilia;Brasil;bras;-15.86916733;-47.92083359;-3;America/Sao_Paulo
+5;America del Sur;SPIM;Lima;Perú;lima;-12.0219;-77.114305;-5;America/Lima
+6;America del Sur;SLLP;La Paz;Bolivia;lapa;-16.51329994;-68.19229889;-4;America/La_Paz
+7;America del Sur;SCEL;Santiago de Chile;Chile;sant;-33.39300156;-70.78579712;-4;America/Santiago
+8;America del Sur;SABE;Buenos Aires ;Argentina;buen;-34.5592;-58.4156;-3;America/Buenos_Aires
+9;America del Sur;SGAS;Asunción;Paraguay;asun;-25.23999977;-57.52000046;-4;America/Asuncion
+10;America del Sur;SUAA;Motenvideo;Uruguay;mont;-34.7892;-56.264702;-3;America/Montevideo
+11;Europa;LATI;Tirana;Albania;tira;41.41469955;19.72060013;1;Europe/Tirane
+12;Europa;EDDI;Berlin;Alemania;berl;52.47299957;13.40390015;1;Europe/Berlin
+13;Europa;LOWW;Viena;Austria;vien;48.11029816;16.56970024;1;Europe/Vienna
+14;Europa;EBCI;Bruselas;Belgica;brus;50.459202;4.45382;1;Europe/Brussels
+15;Europa;UMMS;Minsk;Bielorrusia;mins;53.88249969;28.03070068;3;Europe/Minsk
+16;Europa;LBSF;Sofia;Bulgaria;sofi;42.69669342;23.41143608;2;Europe/Sofia
+17;Europa;LKPR;Praga;Checa;prag;50.1008;14.26;1;Europe/Prague
+18;Europa;LDZA;Zagreb;Croacia;zagr;45.74290085;16.06879997;1;Europe/Zagreb
+19;Europa;EKCH;Copenhague;Dinamarca;cope;55.61790085;12.65600014;1;Europe/Copenhagen
+20;Europa;LZIB;Bratislava;Eslovaquia;brat;48.17020035;17.21269989;1;Europe/Bratislava
+21;Europa;LJLJ;Liubliana;Eslovenia;liub;46.223701;14.4576;1;Europe/Ljubljana
+22;Europa;LEMD;Madrid;España;madr;40.471926;-3.56264;1;Europe/Madrid
+23;Europa;EETN;Tallin;Estonia;tall;59.41329956;24.83279991;2;Europe/Tallinn
+24;Europa;EFHK;Helsinki;Finlandia;hels;60.31719971;24.9633007;2;Europe/Helsinki
+25;Europa;LFPG;Paris;Francia;pari;49.012798;2.55;1;Europe/Paris
+26;Europa;LGAV;Atenas;Grecia;aten;37.93640137;23.94449997;2;Europe/Athens
+27;Europa;EHAM;Amsterdam;Holanda;amst;52.308601;4.76389;1;Europe/Amsterdam
+28;Europa;LHBP;Budapest;Hungría;buda;47.42976;19.261093;1;Europe/Budapest
+29;Europa;EIDW;Dublin;Irlanda (Eire) ;dubl;53.421299;-6.27007;0;Europe/Dublin
+30;Europa;BIKF;Reykjavik;Islandia;reyk;63.98500061;-22.60560036;0;Atlantic/Reykjavik
+31;Europa;LIRA;Roma;Italia;roma;41.7994;12.5949;1;Europe/Rome
+32;Europa;EVRA;Riga;Letonia;riga;56.92359924;23.97109985;2;Europe/Riga
+33;Europa;ELLX;Luxemburgo;Luxemburgo;luxe;49.6233333;6.2044444;1;Europe/Luxembourg
+34;Europa;LMML;LaValletta;Malta;lava;35.857498;14.4775;1;Europe/Malta
+35;Europa;ENGM;Oslo;Noruega;oslo;60.121;11.0502;1;Europe/Oslo
+36;Europa;EPMO;Varsovia;Polonia;vars;52.451099;20.6518;1;Europe/Warsaw
+37;Europa;LPPT;Lisboa;Portugal;lisb;38.7813;-9.13592;0;Europe/Lisbon
+38;Europa;EGLL;Londres;Reino Unido ;lond;51.4706;-0.461941;0;Europe/London
+39;Europa;ESKN;Estocolmo;Suecia;esto;58.78860092;16.91220093;1;Europe/Stockholm
+40;Europa;LSZB;Berna;Suiza;bern;46.91410065;7.49714994;1;Europe/Zurich
