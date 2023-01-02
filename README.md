@@ -105,9 +105,9 @@ When simulation runs in backend, each shipment and his route is printed.
 
 In FrontEnd, all the process can be watched in the following videos (in spanish):
 
-FrontEnd was developed by users 
+https://youtube.com/playlist?list=PLT-m0aKjLeDTlkxEhZpNskGM6K3SqxLmz
 
-
+FrontEnd was developed by users https://github.com/sebas09-gcc, https://github.com/JeisonRomero, https://github.com/joSocAngel
 
 This API was created as a Capstone project in course "Software development 1" by 
 "Pontificia Universidad Católica del Perú" in Lima, Perú.
