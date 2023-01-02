@@ -99,4 +99,15 @@ Database: MySQL v8
     Exists another api capacities for airports, shipments, Users.
     Check com.redex.application.algorithm.controller.api and com.redex.application.core.controller.api for more information.
     
+When simulation runs in backend, each shipment and his route is printed.
+
 ![image](https://user-images.githubusercontent.com/88553229/210197413-a8115347-e993-40f5-b31f-d43ab9a02416.png)
+
+In FrontEnd, all the process can be watched in the following videos (in spanish):
+
+FrontEnd was developed by users 
+
+
+
+This API was created as a Capstone project in course "Software development 1" by 
+"Pontificia Universidad Católica del Perú" in Lima, Perú.
