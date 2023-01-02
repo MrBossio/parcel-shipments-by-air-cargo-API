@@ -1,5 +1,10 @@
 #  parcel-shipments-by-air-cargo-API
 
+### Project specification:
+Language: Java v17
+Framework: Springboot
+Database: MySQL v8
+
 ## The Problem:
 A company is dedicated to sending packages between the main cities of America and Europe.
 The company requires a computer tool that allows two main needs to be met: the reception of packages and the determination of the best route to follow.
@@ -28,11 +33,6 @@ For the elaboration of the software solution, the A* algorithm was used in the s
 In the following image we can see a simplified version of the proposed solution.
 
 ![image](https://user-images.githubusercontent.com/88553229/210195328-c20dc441-b41a-41a3-b567-7599e1bf8cc1.png)
-
-### Project specification:
-Language: Java v17
-Framework: Springboot
-Database: MySQL v8
 
 *****************
 
